@@ -304,7 +304,7 @@ L Device:C_Small C6
 U 1 1 5FD699B1
 P 2050 3350
 F 0 "C6" H 2142 3396 50  0000 L CNN
-F 1 "10uF" H 2142 3305 50  0000 L CNN
+F 1 "C_Small" H 2142 3305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 2050 3350 50  0001 C CNN
 F 3 "~" H 2050 3350 50  0001 C CNN
 	1    2050 3350
@@ -511,10 +511,4 @@ Text GLabel 6750 1250 1    50   Input ~ 0
 COL0
 Text GLabel 7250 1250 1    50   Input ~ 0
 COL1
-Text GLabel 4000 3700 2    50   Input ~ 0
-COL0
-Text GLabel 4000 3600 2    50   Input ~ 0
-COL1
-Text GLabel 4000 3400 2    50   Input ~ 0
-ROW0
 $EndSCHEMATC
